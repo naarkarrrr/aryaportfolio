@@ -7824,11 +7824,12 @@ a:hover, a:focus {
 
 @media (min-width: 1200px) {
   .vcard {
-    padding: 263px 0 220px;
+    padding: 0px 0 220px;
   }
 }
 
 .vcard__container {
+  padding-top: 300px;
   padding-right: 0;
   padding-left: 0;
 }

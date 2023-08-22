@@ -3525,19 +3525,19 @@ a:hover, a:focus {
 }
 
 .skill--theme-yellow::before {
-  border-bottom-color: white;
+  border-bottom-color: black;
 }
 
 .skill--theme-yellow .skill__title {
-  color: white;
+  color: black;
 }
 
 .skill--theme-yellow .skill__percent {
-  color: white;
+  color: black;
 }
 
 .skill--theme-yellow .skill__progress {
-  background-color: white;
+  background-color: black;
 }
 
 .skill__header {
